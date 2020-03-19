@@ -1,8 +1,8 @@
-							#Lab Assignment #1
+# Lab Assignment #1
 **Richard Le May**
 **19-03-20**
 
-###Question 3:
+### Question 3:
 
 	To start, the page contains the head and then the body tags.
 	- The *head tag* contains the metadata, for example, the title of the document, and the specific info of the web page.
@@ -15,7 +15,7 @@
 	  the *td tag* which defines the standard cells, like the weight, and the aligment of the text. Which contains a *tbody tag*
 	  and then a *tr tag* containing *td tags* having all the inf of the news.
 
-###Question 4:
+### Question 4:
 
 	There are two files we need to analize, the *hn.js* and the *news.css*.
 	- Firstly, the *hn.js* file specifies the functions and what they do.
@@ -23,7 +23,7 @@
 	So, in conclusion the difference between them is that the first one specifies what the function does, and the second one
 	specifies the format of the objects.
 
-###Question 5:
+### Question 5:
 
 There are 7 resources:             |   The requests where:
 -----------------------------------|-------------------------------
